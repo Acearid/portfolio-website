@@ -1,7 +1,7 @@
-import viberr from "../../assets/viberr.png";
+import viberr from "../../assets/induktion.png";
 import ProjectCard from "../../common/ProjectCard";
-import burger from "../../assets/fresh-burger.png";
-import hipsster from "../../assets/hipsster.png";
+import puppgift from "../../assets/puppgift.png";
+import hipsster from "../../assets/gymnasiearb.png";
 import styles from "./ProjectsStyles.module.css";
 function Projects() {
   return (
@@ -15,7 +15,7 @@ function Projects() {
           p="Raport som utreder Induktionsvägar"
         />
         <ProjectCard
-          src={burger}
+          src={puppgift}
           link=""
           h3="P uppgift Programering"
           p="Slutarbete i kursen DD1319"
