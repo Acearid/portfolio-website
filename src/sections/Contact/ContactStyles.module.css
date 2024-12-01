@@ -68,6 +68,7 @@ input[type="submit"]:active {
   }
   form {
     gap: 40px;
+    align-self: center;
   }
 }
 @media (width >= 1400px) {
